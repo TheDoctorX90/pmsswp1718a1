@@ -1,4 +1,34 @@
 # Το αρχείο N-Triples με τα δεδομένα του ωρολογίου προγράμματος
 # και τις δηλώσεις rdf:type για κάθε οντότητα.
 
+_:0,<http://dilab77.ionio.gr/swp/c17bour/vocab#Ημέρα>,"""Δευτέρα"""
+_:0,<http://dilab77.ionio.gr/swp/c17bour/vocab#Έναρξη>,"""15:00:00""^^<http://www.w3.org/2001/XMLSchema#time>"
+_:0,<http://dilab77.ionio.gr/swp/c17bour/vocab#Λήξη>,"""18:00:00""^^<http://www.w3.org/2001/XMLSchema#time>"
+_:0,<http://dilab77.ionio.gr/swp/c17bour/vocab#Καθηγητής>,<http://dilab77.ionio.gr/swp/c17bour/resource/Β.%20ΚΟΜΙΑΝΟΣ>
+_:0,<http://dilab77.ionio.gr/swp/c17bour/vocab#Μάθημα>,<http://dilab77.ionio.gr/swp/c17bour/resource/ΨΥΧ.%20ΛΟΓΙΣΜ.>
+_:0,<http://dilab77.ionio.gr/swp/c17bour/vocab#Αίθουσα>,<http://dilab77.ionio.gr/swp/c17bour/resource/Αίθουσα%20ΠΜΣ>
+_:1,<http://dilab77.ionio.gr/swp/c17bour/vocab#Ημέρα>,"""Δευτέρα"""
+_:1,<http://dilab77.ionio.gr/swp/c17bour/vocab#Έναρξη>,"""18:00:00""^^<http://www.w3.org/2001/XMLSchema#time>"
+_:1,<http://dilab77.ionio.gr/swp/c17bour/vocab#Λήξη>,"""21:00:00""^^<http://www.w3.org/2001/XMLSchema#time>"
+_:1,<http://dilab77.ionio.gr/swp/c17bour/vocab#Καθηγητής>,<http://dilab77.ionio.gr/swp/c17bour/resource/Α.%20ΤΣΩΧΟΥ>
+_:1,<http://dilab77.ionio.gr/swp/c17bour/vocab#Μάθημα>,<http://dilab77.ionio.gr/swp/c17bour/resource/ΑΣΦ.%20ΠΛΗΡ.%20ΣΥΣΤ.>
+_:1,<http://dilab77.ionio.gr/swp/c17bour/vocab#Αίθουσα>,<http://dilab77.ionio.gr/swp/c17bour/resource/Αρεταίος>
+_:2,<http://dilab77.ionio.gr/swp/c17bour/vocab#Ημέρα>,"""Τρίτη"""
+_:2,<http://dilab77.ionio.gr/swp/c17bour/vocab#Έναρξη>,"""15:00:00""^^<http://www.w3.org/2001/XMLSchema#time>"
+_:2,<http://dilab77.ionio.gr/swp/c17bour/vocab#Λήξη>,"""18:00:00""^^<http://www.w3.org/2001/XMLSchema#time>"
+_:2,<http://dilab77.ionio.gr/swp/c17bour/vocab#Καθηγητής>,<http://dilab77.ionio.gr/swp/c17bour/resource/Μ.%20ΣΤΕΦΑΝΙΔΑΚΗΣ>
+_:2,<http://dilab77.ionio.gr/swp/c17bour/vocab#Μάθημα>,<http://dilab77.ionio.gr/swp/c17bour/resource/ΠΡΟΓΡ.%20ΣΗΜ.%20ΙΣΤ.>
+_:2,<http://dilab77.ionio.gr/swp/c17bour/vocab#Αίθουσα>,<http://dilab77.ionio.gr/swp/c17bour/resource/Αίθουσα%20ΠΜΣ>
+_:3,<http://dilab77.ionio.gr/swp/c17bour/vocab#Ημέρα>,"""Τρίτη"""
+_:3,<http://dilab77.ionio.gr/swp/c17bour/vocab#Έναρξη>,"""18:00:00""^^<http://www.w3.org/2001/XMLSchema#time>"
+_:3,<http://dilab77.ionio.gr/swp/c17bour/vocab#Λήξη>,"""21:00:00""^^<http://www.w3.org/2001/XMLSchema#time>"
+_:3,<http://dilab77.ionio.gr/swp/c17bour/vocab#Καθηγητής>,<http://dilab77.ionio.gr/swp/c17bour/resource/Π.%20ΒΛΑΜΟΣ>
+_:3,<http://dilab77.ionio.gr/swp/c17bour/vocab#Μάθημα>,<http://dilab77.ionio.gr/swp/c17bour/resource/ΒΙΟΠΛΗΡΟΦ.>
+_:3,<http://dilab77.ionio.gr/swp/c17bour/vocab#Αίθουσα>,<http://dilab77.ionio.gr/swp/c17bour/resource/Εξ%20Αποστάσεως>
+_:4,<http://dilab77.ionio.gr/swp/c17bour/vocab#Ημέρα>,"""Πέμπτη"""
+_:4,<http://dilab77.ionio.gr/swp/c17bour/vocab#Έναρξη>,"""18:00:00""^^<http://www.w3.org/2001/XMLSchema#time>"
+_:4,<http://dilab77.ionio.gr/swp/c17bour/vocab#Λήξη>,"""21:00:00""^^<http://www.w3.org/2001/XMLSchema#time>"
+_:4,<http://dilab77.ionio.gr/swp/c17bour/vocab#Καθηγητής>,<http://dilab77.ionio.gr/swp/c17bour/resource/Φ.%20ΜΥΛΩΝΑΣ>
+_:4,<http://dilab77.ionio.gr/swp/c17bour/vocab#Μάθημα>,<http://dilab77.ionio.gr/swp/c17bour/resource/ΤΕΧΝ.%20ΝΟΗΜ.>
+_:4,<http://dilab77.ionio.gr/swp/c17bour/vocab#Αίθουσα>,<http://dilab77.ionio.gr/swp/c17bour/resource/Αρεταίος>
 
